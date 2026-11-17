@@ -1,11 +1,11 @@
-# Edward Goater — portfolio
+# Edward Goater
 
-A responsive, single-page portfolio for Edward Goater’s work as a conductor, tenor, educator and music leader.
+A single-page, image-led portfolio for Edward Goater as Project Director, Conductor, Lyric Tenor and Teacher. The six destinations use the oversized section navigation and monochrome photography of the design reference, adapted to Edward’s own work and imagery.
 
-## Site files
+## Files
 
-- `index.html` contains the page content and structured metadata.
-- `styles.css` contains the responsive layout and visual design.
-- `assets/` contains the selected photographs and SVG mark.
+- `index.html` — page content and section navigation
+- `styles.css` — design tokens, responsive layout and interaction states
+- `assets/` — Edward’s selected photographs and mark
 
-The site is static and has no build step or external JavaScript dependencies. To publish it with GitHub Pages, select the `main` branch and `/` as the source in the repository’s Pages settings. Add a custom domain there when it is ready to be connected.
+The site is static and has no build step or JavaScript dependencies. Publish from the `main` branch and repository root using GitHub Pages.
